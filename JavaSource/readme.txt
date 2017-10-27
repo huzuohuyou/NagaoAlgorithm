@@ -1,0 +1,1 @@
+jar cvf nagao.jar Main.java NagaoAlgorithm.java TFNeighbor.java com.algo.word
